@@ -1,18 +1,19 @@
-## Modelowanie procesów biotechnologicznych
-### Materiały do zajęć w roku akademickim 2022/2023
+### Modelowanie procesów biotechnologicznych (2022/2023)
 #### Wydział Inżynierii i Technologii Chemicznej Politechnika Krakowska
 
+---
+
+
+
+
+#### Materiały do zajęć:
 
 [:arrow_forward: Uruchom Python/Jupyter w chmurze MyBinder z dostępem do materiałów z zajęć](http://mybinder.org/v2/gh/sbednarz/modelowanie-2022-2023/main)
-
-
-
-## Materiały do zajęć:
 
 [1. Python - podstawy](01/)
 
 
-## Użyteczne linki:
+#### Użyteczne linki:
 
 [:computer: Python pod Winows/Linux/Mac](https://www.anaconda.com/products/distribution)
 
