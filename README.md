@@ -3,12 +3,12 @@
 
 ---
 
-
+[:arrow_forward: Uruchom Python/Jupyter w chmurze MyBinder z dostępem do materiałów z zajęć](http://mybinder.org/v2/gh/sbednarz/modelowanie-2022-2023/main)
 
 
 #### Materiały do zajęć:
 
-[:arrow_forward: Uruchom Python/Jupyter w chmurze MyBinder z dostępem do materiałów z zajęć](http://mybinder.org/v2/gh/sbednarz/modelowanie-2022-2023/main)
+
 
 [1. Python - podstawy](01/)
 
